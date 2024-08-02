@@ -1,12 +1,14 @@
-## Hi there 👋
+## Hey
 
-<!--
+### 🙋‍♀️ A short introduction
 
-**Here are some ideas to get you started:**
+Commitify is a tool to help managing commit messages following templates
+Inspired by my previous project vscode-git-commit-message, I rewrite entirely the tool to make it more complete, to make it resolve more needs and to make it multiple platforms
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🌈 Contribution guidelines
+
+If you want to help on this tool feel free to open pull request on the associated repository
+
+### 🍿 Fun facts
+
+The name of this tool was finded by ChatGPT in two messages
